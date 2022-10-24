@@ -9,5 +9,3 @@
 - 🤝 I’m looking for help with **MY SKILLS**
 
 - 💬 Ask me **Anything**
-
-- 📫 How to reach me **topprogrammer22@gmail.com**
