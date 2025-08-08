@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 🔭 I’m currently working on Full-stack & blockchain development
+- 🔭 I’m currently working on Mobile & blockchain development
 
 - 👯 I’m looking to collaborate on some projects
 
